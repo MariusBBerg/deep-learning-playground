@@ -1,2 +1,6 @@
 __pycache__/
 .DS_Store
+medicalimages/rsna-pneumonia-detection-challenge/
+DM2024/data/
+DM2024/data.zip
+DM2024/DM-i-AI-2024/master/cell-classification
