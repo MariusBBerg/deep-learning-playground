@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+AOI_2_Vegas_Train/
+AOI_3_Paris_Test_public/
+tiles_vegas_rgb/
+tiles_paris_rgb/
+AOI_3_Paris_Train/
+best_segformer_vegas.pth
+best_segformer_mixed.pth
